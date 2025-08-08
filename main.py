@@ -1,3 +1,3 @@
 import streamlit as st
 
-st.title("JEBAT")
+st.title("Website ini dibuat oleh akmal")
