@@ -6,5 +6,4 @@ st.set_page_config(
     layout="wide"
     )
 
-st.sidebar.succes("About Me")
 st.title("Website ini dibuat oleh akmal")
